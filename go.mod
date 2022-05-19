@@ -1,4 +1,4 @@
-module terraform-provider-mssql
+module github.com/EwanNoble/terraform-provider-mssql
 
 go 1.17
 
